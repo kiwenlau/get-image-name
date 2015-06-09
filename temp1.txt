@@ -1,0 +1,12 @@
+NAME                           DESCRIPTION   STARS     OFFICIAL   AUTOMATED
+pinterb/ubuntu-python-dev                    1                    [OK]
+pinterb/swagger-editor                       1                    [OK]
+pinterb/ubuntu-base                          0                    [OK]
+pinterb/ubuntu-python                        0                    [OK]
+pinterb/ubuntu-perl                          0                    [OK]
+pinterb/ubuntu-golang                        0                    [OK]
+pinterb/ubuntu-perl-mojo                     0                    [OK]
+pinterb/ubuntu-perl-dev                      0                    [OK]
+pinterb/ubuntu-python-falcon                 0                    [OK]
+pinterb/json                                 0                    [OK]
+pinterb/ansible                              0                    [OK]
